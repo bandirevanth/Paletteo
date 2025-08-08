@@ -15,15 +15,15 @@ const jetbrainsMono = localFont({
   weight: "100 900",
 });
 
-const metadataBase = new URL("https://paletteo.cc");
+const metadataBase = new URL("https://paletteo.vercel.app");
 
 export const metadata: Metadata = {
   metadataBase,
   title: "Paletteo",
-  description: "Generate and preview different colors on multiple different examples.",
+  description: "Generate and preview different colors and test on multiple examples. Made by Bandi Revanth.",
   openGraph: {
     title: "Paletteo",
-    description: "Generate and preview different colors on multiple different examples.",
+    description: "Generate and preview different colors and test on multiple examples. Made by Bandi Revanth.",
     images: [
       {
         url: "/og.png",
@@ -32,12 +32,12 @@ export const metadata: Metadata = {
         alt: "Paletteo OG Image",
       },
     ],
-    url: "https://paletteo.cc",
+    url: "https://paletteo.vercel.app",
   },
   twitter: {
     card: "summary_large_image",
     title: "Paletteo",
-    description: "Generate and preview different colors on multiple different examples.",
+    description: "Generate and preview different colors and test on multiple examples. Made by Bandi Revanth.",
     images: [
       {
         url: "/og.png",
