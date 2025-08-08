@@ -1,3 +1,5 @@
+// Notification system
+
 "use client"
 
 // Inspired by react-hot-toast library

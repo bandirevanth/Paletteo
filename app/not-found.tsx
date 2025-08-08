@@ -11,7 +11,7 @@ function NotFoundPage() {
           404
         </div>
         <div className="text-base text-stone-400 max-w-lg mb-1">
-          The page you are looking for does not exist.
+          Oops. The page you are looking for does not exist. :(
           It might have been moved or deleted.
           Check the link you entered, or click below to return
           to the last page you were on.
