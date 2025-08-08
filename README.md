@@ -1,4 +1,4 @@
-# [Paletteo](https://paletteo.cc)
+# [Paletteo](https://paletteo.vercel.app/)
 
 A simple and minimalistic color previewer and generator. Take the color values you get from **Paletteo** to use in your own code or projects!
 
