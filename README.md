@@ -17,4 +17,4 @@ A simple and minimalistic color previewer and generator. Take the color values y
 
 # License
 
-Paletteo is licensed under the [MIT License](LICENSE).
+Paletteo is licensed under the [Apache 2.0](LICENSE).

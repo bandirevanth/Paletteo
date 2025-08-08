@@ -119,7 +119,7 @@ const ColorInput: React.FC<ColorInputProps> = ({ color, setColor, randomizeColor
           asChild
         >
           <Link 
-            href="https://github.com/bandirevanth"
+            href="https://github.com/bandirevanth/paletteo"
             target="_blank"
             rel="noopener noreferrer"
           >
