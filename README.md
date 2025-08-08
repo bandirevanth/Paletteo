@@ -6,7 +6,7 @@ A beautiful and minimalistic color previewer and generator. Take the color value
 
 ## Tech Stack
 - Next.js
-- TailwindCSS
+- TailwindCSS & shadcn/ui
 - Framer Motion
 - Lucide Icons
 
@@ -21,8 +21,3 @@ A beautiful and minimalistic color previewer and generator. Take the color value
 | **HSLA**            | `hsla(H, S%, L%, A)`                                      | `hsla(299, 76%, 65%, 0.35)`                                                     |
 | **Linear Gradient** | `linear-gradient(direction, color1, color2...)`           | `linear-gradient(to bottom left, #39e4cb, #1077f7)`                             |
 | **Radial Gradient** | `radial-gradient(shape at position, color1, color2...)`   | `radial-gradient(circle at bottom left, rgb(65, 116, 215), rgb(114, 139, 216))` |
-
-
-# License
-
-Paletteo is licensed under the [Apache 2.0](LICENSE).
