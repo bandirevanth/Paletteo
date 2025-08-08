@@ -2,6 +2,8 @@
 
 A simple and minimalistic color previewer and generator. Take the color values you get from **Paletteo** to use in your own code or projects!
 
+![Demo image](demo.png)
+
 ## Supported Color Types
 
 | Color Type          | Syntax                                                    | Example                                                                         |
