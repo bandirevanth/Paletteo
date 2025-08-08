@@ -1,8 +1,14 @@
 # [Paletteo](https://paletteo.vercel.app/)
 
-A simple and minimalistic color previewer and generator. Take the color values you get from **Paletteo** to use in your own code or projects!
+A beautiful and minimalistic color previewer and generator. Take the color values you get from **Paletteo** to use in your own code or projects!
 
 ![Demo image](demo.png)
+
+## Tech Stack
+- Next.js
+- TailwindCSS
+- Framer Motion
+- Lucide Icons
 
 ## Supported Color Types
 

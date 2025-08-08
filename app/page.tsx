@@ -53,6 +53,7 @@ export default function Home() {
         </div>
       </div>
       <RandomizeScroll randomizeColor={randomizeColor} />
+      <SpeedInsights />
     </div>
   );
 }
