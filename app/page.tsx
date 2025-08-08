@@ -8,6 +8,7 @@ import RandomizeScroll from '@/components/color/RandomizeScrollButton';
 import { getRandomHexColor, getRandomRgbColor, getRandomHslaColor, getRandomHslColor, getRandomRgbaColor, getRandomLinearGradient, getRandomRadialGradient } from '@/utils/colors';
 import { Sparkles } from "lucide-react";
 import { SpeedInsights } from "@vercel/speed-insights/next";
+import { Analytics } from "@vercel/analytics/next";
 
 export default function Home() {
   const [color, setColor] = useState('');
@@ -54,6 +55,7 @@ export default function Home() {
       </div>
       <RandomizeScroll randomizeColor={randomizeColor} />
       <SpeedInsights />
+      <Analytics />
     </div>
   );
 }
