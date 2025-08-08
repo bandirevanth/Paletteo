@@ -22,7 +22,7 @@ export const metadata: Metadata = {
   title: "Paletteo",
   description: "Generate and preview different colors and test on multiple examples. Made by Bandi Revanth.",
   other: {
-    'google-site-verification': 'Ffpsr8oGLXEHiBrYofkBc2Qf3U8kWX7HIq-5W4SH2-c'
+    'google-site-verification': 'Ffpsr8oGLXEHiBrYofkBc2Qf3U8kWX7HIq-5W4SH2-c',
   },
   openGraph: {
     title: "Paletteo",
