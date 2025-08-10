@@ -24,8 +24,8 @@ A beautiful and minimalistic color previewer and generator. Take the color value
 
 # Statistics
 ### PageSpeed Insights & Lighthouse
-##### _These numbers are (same) for both Mobile & Desktop unless specifically mentioned._ ([Learn more & verify!](https://pagespeed.web.dev/analysis?url=https%3A%2F%2Fbandirevanth.github.io%2F))  
+##### _These numbers are (same) for both Mobile & Desktop unless specifically mentioned._ ([Learn more & verify!](https://pagespeed.web.dev/analysis?url=https%3A%2F%2Fpaletteo.vercel.app%2F))  
 🚀 Performance    - 100 - Desktop | 93 - Mobile  
-♿ Accessibility  - 96
+♿ Accessibility  - 96  
 🌟 Best Practices - 100  
 🌐 SEO            - 100
