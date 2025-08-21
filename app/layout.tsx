@@ -50,7 +50,7 @@ export const metadata: Metadata = {
     description: "Generate and preview different colors and test on multiple examples. Made by Bandi Revanth.",
     images: [
       {
-        url: "/og.png",
+        url: "/demo.png",
         width: 1200,
         height: 720,
         alt: "Paletteo OG Image",

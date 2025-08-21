@@ -1,0 +1,14 @@
+# Paletteo
+
+> Generate, test and preview different colors on UI elements. A beautiful and minimalistic color previewer and generator. Take the color values you get from Paletteo to use in your own code or projects!
+
+Important notes:
+
+    - Paletteo is licensed under Apache 2.0 | Attribution & credit is compulsory
+    - Hosted using Vercel.
+
+    Tech Stack:
+        - Next.js
+        - TailwindCSS & shadcn/ui
+        - Framer Motion
+        - Lucide Icons
