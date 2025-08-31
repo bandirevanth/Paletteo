@@ -8,6 +8,7 @@
 | <1.0.4  | :x:                |
 
 ## Reporting a Vulnerability
+
 Methods:
 - You can open an issue and create a PR.
 - You can share in the Discussions tab.

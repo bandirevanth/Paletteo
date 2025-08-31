@@ -1,10 +1,12 @@
 # [Paletteo](https://paletteo.vercel.app/)
 
-A beautiful and minimalistic color previewer and generator. Take the color values you get from **Paletteo** to use in your own code or projects!
+A beautiful and minimalistic color previewer and generator. Take the color values you get from **Paletteo** to use in your own code or projects!  
+[![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://bandirevanth.github.io/)
 
 ![Demo image](demo.png)
 
 ## Tech Stack
+
 - Next.js
 - TailwindCSS & shadcn/ui
 - Framer Motion
@@ -23,6 +25,7 @@ A beautiful and minimalistic color previewer and generator. Take the color value
 | **Radial Gradient** | `radial-gradient(shape at position, color1, color2...)`   | `radial-gradient(circle at bottom left, rgb(65, 116, 215), rgb(114, 139, 216))` |
 
 # Statistics
+
 ### PageSpeed Insights & Lighthouse
 ##### _These numbers are (same) for both Mobile & Desktop unless specifically mentioned._ ([Learn more & verify!](https://pagespeed.web.dev/analysis?url=https%3A%2F%2Fpaletteo.vercel.app%2F))  
 🚀 Performance    - 100 - Desktop | 93 - Mobile  
